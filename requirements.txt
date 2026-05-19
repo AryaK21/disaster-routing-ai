@@ -1,0 +1,8 @@
+streamlit
+osmnx
+networkx
+folium
+streamlit-folium
+pillow
+requests
+google-generativeai
