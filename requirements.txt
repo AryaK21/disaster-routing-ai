@@ -6,3 +6,4 @@ streamlit-folium
 pillow
 requests
 google-generativeai
+scikit-learn
